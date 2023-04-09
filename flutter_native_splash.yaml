@@ -1,0 +1,8 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/splash.png
+  android: true
+  ios: true
+  ios_disable_fade_in: false
+  android_disable_fullscreen: false
+  android_drawable_background: true
